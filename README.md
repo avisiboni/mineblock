@@ -38,4 +38,4 @@ WASD move · Space jump / swim · Shift sneak · double-tap W sprint · E invent
 
 ## Deploy
 
-Push to GitHub, enable **Settings → Pages → Source: GitHub Actions**. Every push to `main` publishes the site. After the first deploy, set `og:image` in `index.html` to the absolute URL of `og.jpg`. Netlify / Vercel / Cloudflare Pages also work with "no build command, publish directory `.`".
+Push to GitHub, enable **Settings → Pages → Source: GitHub Actions**. Every push to `main` publishes the site. Live at <https://avisiboni.github.io/mineblock/>. Netlify / Vercel / Cloudflare Pages also work with "no build command, publish directory `.`".
